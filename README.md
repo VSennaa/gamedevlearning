@@ -1,2 +1,2 @@
-# gamedevlearning
+# GameDevLearning
 Just studying gamedev
