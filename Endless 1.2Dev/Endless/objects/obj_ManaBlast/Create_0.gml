@@ -1,0 +1,1 @@
+obj_ManaBlast.image_angle = obj_player.image_angle
