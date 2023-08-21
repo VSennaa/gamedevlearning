@@ -1,0 +1,1 @@
+draw_text(version_posicao_x, version_posicao_y, version_texto);
