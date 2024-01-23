@@ -1,0 +1,1 @@
+obj_paddle_1.y =  clamp(y - 12, 0, room_height - 100);

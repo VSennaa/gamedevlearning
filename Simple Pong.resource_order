@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Anotações","order":11,"path":"folders/Anotações.yy",},
+    {"name":"Caminhos","order":2,"path":"folders/Caminhos.yy",},
+    {"name":"Cenas","order":8,"path":"folders/Cenas.yy",},
+    {"name":"Curvas da animação","order":10,"path":"folders/Curvas da animação.yy",},
+    {"name":"Extensões","order":12,"path":"folders/Extensões.yy",},
+    {"name":"Fontes","order":5,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":6,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":7,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+    {"name":"Scripts","order":3,"path":"folders/Scripts.yy",},
+    {"name":"Sequências","order":9,"path":"folders/Sequências.yy",},
+    {"name":"Shaders","order":4,"path":"folders/Shaders.yy",},
+    {"name":"Sons","order":1,"path":"folders/Sons.yy",},
+    {"name":"Sprites","order":14,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_ball","order":2,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_point_2","order":4,"path":"objects/obj_point_2/obj_point_2.yy",},
+    {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+    {"name":"num","order":15,"path":"sprites/num/num.yy",},
+    {"name":"obj_point_1","order":3,"path":"objects/obj_point_1/obj_point_1.yy",},
+    {"name":"obj_paddle_2","order":1,"path":"objects/obj_paddle_2/obj_paddle_2.yy",},
+  ],
+}
